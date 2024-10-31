@@ -8,14 +8,9 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "en-US",
-      title: "Paggie's Blog",
-      description: "A template for Paggie's blog",
-    },
-    "/zh/": {
-      lang: "zh-CN",
-      title: "博客演示",
-      description: "vuepress-theme-hope 的博客演示",
-    },
+      title: "Leon's Blog",
+      description: "A template for Leon's blog",
+    }
   },
 
   theme,

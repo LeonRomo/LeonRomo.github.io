@@ -3,8 +3,8 @@ home: true
 layout: BlogHome
 icon: home
 title: Blog Home
-heroImage: paggie.png
-heroText: Paggie's blog
+heroImage: leon.png
+heroText: Leon's blog
 tagline: I'm the best
 heroFullScreen: true
 projects:
