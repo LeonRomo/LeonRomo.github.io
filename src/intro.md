@@ -1,8 +1,9 @@
 ---
 icon: circle-info
 cover: /assets/images/cover3.jpg
+sidebar: false
+#navbar: false
 ---
 
 # Intro Page
-
-Place your introduction and profile here.
+I'm a handsome man.

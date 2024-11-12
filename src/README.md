@@ -41,7 +41,7 @@ projects:
 footer: customize your footer text
 ---
 <style>
-  .vp-blog-hero-image {
+  .vp-blog-hero-image, .vp-blogger-avatar {
     border-radius: 50%;
   }
 </style>
